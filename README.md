@@ -18,3 +18,4 @@ A Python-based IT Helpdesk Ticket Management System built using Streamlit, SQLit
 ## Tech Stack
 
 Python, Streamlit, SQLite, Pandas, Plotly
+<img width="1916" height="962" alt="image" src="https://github.com/user-attachments/assets/921a250b-a6c6-46e5-a5f7-734f16985719" />
